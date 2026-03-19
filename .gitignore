@@ -1,0 +1,28 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Anaconda
+environment.yml
+
+# Data files 
+data/raw/*.csv
+data/raw/nfhs_repo/
+data/geospatial/*.geojson
+
+# Processed data 
+data/processed/
+
+# Power BI
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
