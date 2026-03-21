@@ -1,0 +1,650 @@
+state,state_census_code,district_name,district_id,district_census_code,region
+Andaman & Nicobar Island,35,Nicobar,Nicobar_1,1.0,Islands
+Andaman & Nicobar Island,35,North & Middle Andaman,North & Middle Andaman_2,2.0,Islands
+Andaman & Nicobar Island,35,South Andaman,South Andaman_3,3.0,Islands
+Andhra Pradesh,28,Anantapur,Anantapur_12,12.0,South
+Andhra Pradesh,28,Chittoor,Chittoor_13,13.0,South
+Andhra Pradesh,28,East Godavari,East Godavari_4,4.0,South
+Andhra Pradesh,28,Guntur,Guntur_7,7.0,South
+Andhra Pradesh,28,Krishna,Krishna_6,6.0,South
+Andhra Pradesh,28,Kurnool,Kurnool_11,11.0,South
+Andhra Pradesh,28,Prakasam,Prakasam_8,8.0,South
+Andhra Pradesh,28,Sri Potti Sriramulu Nellore,Nellore_9,9.0,South
+Andhra Pradesh,28,Srikakulam,Srikakulam_1,1.0,South
+Andhra Pradesh,28,Visakhapatnam,Visakhapatnam_3,3.0,South
+Andhra Pradesh,28,Vizianagaram,Vizianagaram_2,2.0,South
+Andhra Pradesh,28,West Godavari,West Godavari_5,5.0,South
+Andhra Pradesh,28,Y.S.R.,Cuddapah_10,10.0,South
+Arunachal Pradesh,12,Anjaw,Anjaw_16,16.0,Northeast
+Arunachal Pradesh,12,Changlang,Changlang_9,9.0,Northeast
+Arunachal Pradesh,12,Dibang Valley,Dibang Valley_13,13.0,Northeast
+Arunachal Pradesh,12,East Kameng,East Kameng_3,3.0,Northeast
+Arunachal Pradesh,12,East Siang,East Siang_7,7.0,Northeast
+Arunachal Pradesh,12,Kurung Kumey,Kurung Kumey_12,12.0,Northeast
+Arunachal Pradesh,12,Lohit,Lohit_15,15.0,Northeast
+Arunachal Pradesh,12,Lower Dibang Valley,Lower Dibang Valley_14,14.0,Northeast
+Arunachal Pradesh,12,Lower Subansiri,Lower Subansiri_11,11.0,Northeast
+Arunachal Pradesh,12,Papum Pare,Papum Pare_4,4.0,Northeast
+Arunachal Pradesh,12,Tawang,Tawang_1,1.0,Northeast
+Arunachal Pradesh,12,Tirap,Tirap_10,10.0,Northeast
+Arunachal Pradesh,12,Upper Siang,Upper Siang_8,8.0,Northeast
+Arunachal Pradesh,12,Upper Subansiri,Upper Subansiri_5,5.0,Northeast
+Arunachal Pradesh,12,West Kameng,West Kameng_2,2.0,Northeast
+Arunachal Pradesh,12,West Siang,West Siang_6,6.0,Northeast
+Assam,18,Baksa,Baksa_25,25.0,Northeast
+Assam,18,Barpeta,Barpeta_4,4.0,Northeast
+Assam,18,Bongaigaon,Bongaigaon_20,20.0,Northeast
+Assam,18,Cachar,Cachar_17,17.0,Northeast
+Assam,18,Chirang,Chirang_21,21.0,Northeast
+Assam,18,Darrang,Darrang_26,26.0,Northeast
+Assam,18,Dhemaji,Dhemaji_9,9.0,Northeast
+Assam,18,Dhubri,Dhubri_2,2.0,Northeast
+Assam,18,Dibrugarh,Dibrugarh_11,11.0,Northeast
+Assam,18,Dima Hasao,Dima Hasao_16,16.0,Northeast
+Assam,18,Goalpara,Goalpara_3,3.0,Northeast
+Assam,18,Golaghat,Golaghat_14,14.0,Northeast
+Assam,18,Hailakandi,Hailakandi_19,19.0,Northeast
+Assam,18,Jorhat,Jorhat_13,13.0,Northeast
+Assam,18,Kamrup,Kamrup_22,22.0,Northeast
+Assam,18,Kamrup Metropolitan,Kamrup Metropolitan_23,23.0,Northeast
+Assam,18,Karbi Anglong,Karbi Anglong_15,15.0,Northeast
+Assam,18,Karimganj,Karimganj_18,18.0,Northeast
+Assam,18,Kokrajhar,Kokrajhar_1,1.0,Northeast
+Assam,18,Lakhimpur,Lakhimpur_8,8.0,Northeast
+Assam,18,Morigaon,Marigaon_5,5.0,Northeast
+Assam,18,Nagaon,Nagaon_6,6.0,Northeast
+Assam,18,Nalbari,Nalbari_24,24.0,Northeast
+Assam,18,Sivasagar,Sivasagar_12,12.0,Northeast
+Assam,18,Sonitpur,Sonitpur_7,7.0,Northeast
+Assam,18,Tinsukia,Tinsukia_10,10.0,Northeast
+Assam,18,Udalguri,Udalguri_27,27.0,Northeast
+Bihar,10,Araria,Araria_7,7.0,East
+Bihar,10,Arwal,Arwal_38,38.0,East
+Bihar,10,Aurangabad,Aurangabad_33,33.0,East
+Bihar,10,Banka,Banka_23,23.0,East
+Bihar,10,Begusarai,Begusarai_20,20.0,East
+Bihar,10,Bhagalpur,Bhagalpur_22,22.0,East
+Bihar,10,Bhojpur,Bhojpur_29,29.0,East
+Bihar,10,Buxar,Buxar_30,30.0,East
+Bihar,10,Darbhanga,Darbhanga_13,13.0,East
+Bihar,10,Gaya,Gaya_34,34.0,East
+Bihar,10,Gopalganj,Gopalganj_15,15.0,East
+Bihar,10,Jamui,Jamui_36,36.0,East
+Bihar,10,Jehanabad,Jehanabad_37,37.0,East
+Bihar,10,Kaimur (Bhabua),Kaimur (bhabua)_31,31.0,East
+Bihar,10,Katihar,Katihar_10,10.0,East
+Bihar,10,Khagaria,Khagaria_21,21.0,East
+Bihar,10,Kishanganj,Kishanganj_8,8.0,East
+Bihar,10,Lakhisarai,Lakhisarai_25,25.0,East
+Bihar,10,Madhepura,Madhepura_11,11.0,East
+Bihar,10,Madhubani,Madhubani_5,5.0,East
+Bihar,10,Munger,Munger_24,24.0,East
+Bihar,10,Muzaffarpur,Muzaffarpur_14,14.0,East
+Bihar,10,Nalanda,Nalanda_27,27.0,East
+Bihar,10,Nawada,Nawada_35,35.0,East
+Bihar,10,Pashchim Champaran,Pashchim Champaran_1,1.0,East
+Bihar,10,Patna,Patna_28,28.0,East
+Bihar,10,Purba Champaran,Purba Champaran_2,2.0,East
+Bihar,10,Purnia,Purnia_9,9.0,East
+Bihar,10,Rohtas,Rohtas_32,32.0,East
+Bihar,10,Saharsa,Saharsa_12,12.0,East
+Bihar,10,Samastipur,Samastipur_19,19.0,East
+Bihar,10,Saran,Saran (chhapra)_17,17.0,East
+Bihar,10,Sheikhpura,Sheikhpura_26,26.0,East
+Bihar,10,Sheohar,Sheohar_3,3.0,East
+Bihar,10,Sitamarhi,Sitamarhi_4,4.0,East
+Bihar,10,Siwan,Siwan_16,16.0,East
+Bihar,10,Supaul,Supaul_6,6.0,East
+Bihar,10,Vaishali,Vaishali_18,18.0,East
+Chandigarh,4,Chandigarh,Chandigarh_1,1.0,North
+Chhattisgarh,22,Bastar,Bastar_15,15.0,Central
+Chhattisgarh,22,Bijapur,Bijapur_18,18.0,Central
+Chhattisgarh,22,Bilaspur,Bilaspur_7,7.0,Central
+Chhattisgarh,22,Dantewada,Dakshin Bastar Dantewada_17,17.0,Central
+Chhattisgarh,22,Dhamtari,Dhamtari_13,13.0,Central
+Chhattisgarh,22,Durg,Durg_10,10.0,Central
+Chhattisgarh,22,Janjgir - Champa,Janjgir-champa_6,6.0,Central
+Chhattisgarh,22,Jashpur,Jashpur_3,3.0,Central
+Chhattisgarh,22,Kabeerdham,Kabeerdham_8,8.0,Central
+Chhattisgarh,22,Korba,Korba_5,5.0,Central
+Chhattisgarh,22,Koriya,Koriya_1,1.0,Central
+Chhattisgarh,22,Mahasamund,Mahasamund_12,12.0,Central
+Chhattisgarh,22,Narayanpur,Narayanpur_16,16.0,Central
+Chhattisgarh,22,Raigarh,Raigarh_4,4.0,Central
+Chhattisgarh,22,Raipur,Raipur_11,11.0,Central
+Chhattisgarh,22,Rajnandgaon,Rajnandgaon_9,9.0,Central
+Chhattisgarh,22,Surguja,Surguja_2,2.0,Central
+Chhattisgarh,22,Uttar Bastar Kanker,Uttar Bastar Kanker_14,14.0,Central
+Dadra & Nagar Haveli,26,Dadra & Nagar Haveli,Dadra & Nagar Haveli_1,1.0,West
+Daman & Diu,25,Daman,Daman_2,2.0,West
+Daman & Diu,25,Diu,Diu_1,1.0,West
+Goa,30,North Goa,North Goa_1,1.0,West
+Goa,30,South Goa,South Goa_2,2.0,West
+Gujarat,24,Ahmedabad,Ahmadabad_7,7.0,West
+Gujarat,24,Amreli,Amreli_13,13.0,West
+Gujarat,24,Anand,Anand_15,15.0,West
+Gujarat,24,Banaskantha,Banas Kantha_2,2.0,West
+Gujarat,24,Bharuch,Bharuch_21,21.0,West
+Gujarat,24,Bhavnagar,Bhavnagar_14,14.0,West
+Gujarat,24,Dahod,Dohad_18,18.0,West
+Gujarat,24,Gandhinagar,Gandhinagar_6,6.0,West
+Gujarat,24,Jamnagar,Jamnagar_10,10.0,West
+Gujarat,24,Junagadh,Junagadh_12,12.0,West
+Gujarat,24,Kachchh,Kachchh_1,1.0,West
+Gujarat,24,Kheda,Kheda_16,16.0,West
+Gujarat,24,Mahesana,Mahesana_4,4.0,West
+Gujarat,24,Narmada,Narmada_20,20.0,West
+Gujarat,24,Navsari,Navsari_23,23.0,West
+Gujarat,24,Panchmahal,Panch Mahals_17,17.0,West
+Gujarat,24,Patan,Patan_3,3.0,West
+Gujarat,24,Porbandar,Porbandar_11,11.0,West
+Gujarat,24,Rajkot,Rajkot_9,9.0,West
+Gujarat,24,Sabarkantha,Sabar Kantha_5,5.0,West
+Gujarat,24,Surat,Surat_25,25.0,West
+Gujarat,24,Surendranagar,Surendranagar_8,8.0,West
+Gujarat,24,Tapi,Tapi_26,26.0,West
+Gujarat,24,The Dangs,The Dangs_22,22.0,West
+Gujarat,24,Vadodara,Vadodara_19,19.0,West
+Gujarat,24,Valsad,Valsad_24,24.0,West
+Haryana,6,Ambala,Ambala_2,2.0,North
+Haryana,6,Bhiwani,Bhiwani_13,13.0,North
+Haryana,6,Faridabad,Faridabad_20,20.0,North
+Haryana,6,Fatehabad,Fatehabad_10,10.0,North
+Haryana,6,Gurgaon,Gurgaon_18,18.0,North
+Haryana,6,Hisar,Hisar_12,12.0,North
+Haryana,6,Jhajjar,Jhajjar_15,15.0,North
+Haryana,6,Jind,Jind_9,9.0,North
+Haryana,6,Kaithal,Kaithal_5,5.0,North
+Haryana,6,Karnal,Karnal_6,6.0,North
+Haryana,6,Kurukshetra,Kurukshetra_4,4.0,North
+Haryana,6,Mahendragarh,Mahendragarh_16,16.0,North
+Haryana,6,Mewat,Mewat_19,19.0,North
+Haryana,6,Palwal,Palwal_21,21.0,North
+Haryana,6,Panchkula,Panchkula_1,1.0,North
+Haryana,6,Panipat,Panipat_7,7.0,North
+Haryana,6,Rewari,Rewari_17,17.0,North
+Haryana,6,Rohtak,Rohtak_14,14.0,North
+Haryana,6,Sirsa,Sirsa_11,11.0,North
+Haryana,6,Sonipat,Sonipat_8,8.0,North
+Haryana,6,Yamunanagar,Yamunanagar_3,3.0,North
+Himachal Pradesh,2,Bilaspur,Bilaspur_8,8.0,North
+Himachal Pradesh,2,Chamba,Chamba_1,1.0,North
+Himachal Pradesh,2,Hamirpur,Hamirpur_6,6.0,North
+Himachal Pradesh,2,Kangra,Kangra_2,2.0,North
+Himachal Pradesh,2,Kinnaur,Kinnaur_12,12.0,North
+Himachal Pradesh,2,Kullu,Kullu_4,4.0,North
+Himachal Pradesh,2,Lahul and Spiti,Lahul & Spiti_3,3.0,North
+Himachal Pradesh,2,Mandi,Mandi_5,5.0,North
+Himachal Pradesh,2,Shimla,Shimla_11,11.0,North
+Himachal Pradesh,2,Sirmaur,Sirmaur_10,10.0,North
+Himachal Pradesh,2,Solan,Solan_9,9.0,North
+Himachal Pradesh,2,Una,Una_7,7.0,North
+Jammu & Kashmir,1,Anantnag,Anantnag_14,14.0,North
+Jammu & Kashmir,1,Badgam,Badgam_2,2.0,North
+Jammu & Kashmir,1,Bandipore,Bandipore_9,9.0,North
+Jammu & Kashmir,1,Baramula,Baramula_8,8.0,North
+Jammu & Kashmir,1,Data Not Available,Data Not Available_99,99.0,North
+Jammu & Kashmir,1,Doda,Doda_16,16.0,North
+Jammu & Kashmir,1,Ganderbal,Ganderbal_11,11.0,North
+Jammu & Kashmir,1,Jammu,Jammu_21,21.0,North
+Jammu & Kashmir,1,Kathua,Kathua_7,7.0,North
+Jammu & Kashmir,1,Kishtwar,Kishtwar_18,18.0,North
+Jammu & Kashmir,1,Kulgam,Kulgam_15,15.0,North
+Jammu & Kashmir,1,Kupwara,Kupwara_1,1.0,North
+Jammu & Kashmir,1,Pulwama,Pulwama_12,12.0,North
+Jammu & Kashmir,1,Punch,Punch_5,5.0,North
+Jammu & Kashmir,1,Rajouri,Rajouri_6,6.0,North
+Jammu & Kashmir,1,Ramban,Ramban_17,17.0,North
+Jammu & Kashmir,1,Reasi,Reasi_20,20.0,North
+Jammu & Kashmir,1,Samba,Samba_22,22.0,North
+Jammu & Kashmir,1,Shupiyan,Shupiyan_13,13.0,North
+Jammu & Kashmir,1,Srinagar,Srinagar_10,10.0,North
+Jammu & Kashmir,1,Udhampur,Udhampur_19,19.0,North
+Jharkhand,20,Bokaro,Bokaro_10,10.0,East
+Jharkhand,20,Chatra,Chatra_2,2.0,East
+Jharkhand,20,Deoghar,Deoghar_5,5.0,East
+Jharkhand,20,Dhanbad,Dhanbad_9,9.0,East
+Jharkhand,20,Dumka,Dumka_17,17.0,East
+Jharkhand,20,Garhwa,Garhwa_1,1.0,East
+Jharkhand,20,Giridih,Giridih_4,4.0,East
+Jharkhand,20,Godda,Godda_6,6.0,East
+Jharkhand,20,Gumla,Gumla_21,21.0,East
+Jharkhand,20,Hazaribagh,Hazaribagh_15,15.0,East
+Jharkhand,20,Jamtara,Jamtara_18,18.0,East
+Jharkhand,20,Khunti,Khunti_20,20.0,East
+Jharkhand,20,Kodarma,Kodarma_3,3.0,East
+Jharkhand,20,Latehar,Latehar_14,14.0,East
+Jharkhand,20,Lohardaga,Lohardaga_11,11.0,East
+Jharkhand,20,Pakur,Pakur_8,8.0,East
+Jharkhand,20,Palamu,Palamu_13,13.0,East
+Jharkhand,20,Pashchimi Singhbhum,Pashchimi Singhbhum_23,23.0,East
+Jharkhand,20,Purbi Singhbhum,Purbi Singhbhum_12,12.0,East
+Jharkhand,20,Ramgarh,Ramgarh_16,16.0,East
+Jharkhand,20,Ranchi,Ranchi_19,19.0,East
+Jharkhand,20,Sahibganj,Sahibganj_7,7.0,East
+Jharkhand,20,Sahibganj,Saraikela-kharsawan_24,7.0,East
+Jharkhand,20,Simdega,Simdega_22,22.0,East
+Karnataka,29,Bijapur,Bijapur_3,3.0,South
+Karnataka,29,Bagalkot,Bagalkot_2,2.0,South
+Karnataka,29,Bangalore,Bangalore_18,18.0,South
+Karnataka,29,Bangalore Rural,Bangalore Rural_29,29.0,South
+Karnataka,29,Belgaum,Belgaum_1,1.0,South
+Karnataka,29,Bellary,Bellary_11,11.0,South
+Karnataka,29,Bidar,Bidar_4,4.0,South
+Karnataka,29,Chamarajanagar,Chamrajnagar_24,24.0,South
+Karnataka,29,Chikkaballapura,Chikkaballapura_28,28.0,South
+Karnataka,29,Chikmagalur,Chikmagalur_16,16.0,South
+Karnataka,29,Chitradurga,Chitradurga_12,12.0,South
+Karnataka,29,Dakshina Kannada,Dakshina Kannada_21,21.0,South
+Karnataka,29,Davanagere,Davanagere_13,13.0,South
+Karnataka,29,Dharwad,Dharwad_8,8.0,South
+Karnataka,29,Gadag,Gadag_7,7.0,South
+Karnataka,29,Gulbarga,Gulbarga_25,25.0,South
+Karnataka,29,Hassan,Hassan_20,20.0,South
+Karnataka,29,Haveri,Haveri_10,10.0,South
+Karnataka,29,Kodagu,Kodagu_22,22.0,South
+Karnataka,29,Kolar,Kolar_27,27.0,South
+Karnataka,29,Koppal,Koppal_6,6.0,South
+Karnataka,29,Mandya,Mandya_19,19.0,South
+Karnataka,29,Mysore,Mysore_23,23.0,South
+Karnataka,29,Raichur,Raichur_5,5.0,South
+Karnataka,29,Ramanagara,Ramanagara_30,30.0,South
+Karnataka,29,Shimoga,Shimoga_14,14.0,South
+Karnataka,29,Tumkur,Tumkur_17,17.0,South
+Karnataka,29,Udupi,Udupi_15,15.0,South
+Karnataka,29,Uttara Kannada,Uttara Kannada_9,9.0,South
+Karnataka,29,Yadgir,Yadgir_26,26.0,South
+Kerala,32,Alappuzha,Alappuzha_11,11.0,South
+Kerala,32,Ernakulam,Ernakulam_8,8.0,South
+Kerala,32,Idukki,Idukki_9,9.0,South
+Kerala,32,Kannur,Kannur_2,2.0,South
+Kerala,32,Kasaragod,Kasaragod_1,1.0,South
+Kerala,32,Kollam,Kollam_13,13.0,South
+Kerala,32,Kottayam,Kottayam_10,10.0,South
+Kerala,32,Kozhikode,Kozhikode_4,4.0,South
+Kerala,32,Malappuram,Malappuram_5,5.0,South
+Kerala,32,Palakkad,Palakkad_6,6.0,South
+Kerala,32,Pathanamthitta,Pathanamthitta_12,12.0,South
+Kerala,32,Thiruvananthapuram,Thiruvananthapuram_14,14.0,South
+Kerala,32,Thrissur,Thrissur_7,7.0,South
+Kerala,32,Wayanad,Wayanad_3,3.0,South
+Ladakh,1,Kargil,Kargil_4,4.0,North
+Ladakh,1,Leh (Ladakh),Leh (ladakh)_3,3.0,North
+Lakshadweep,31,Lakshadweep,Lakshadweep_1,1.0,South
+Madhya Pradesh,23,Alirajpur,Alirajpur_48,48.0,Central
+Madhya Pradesh,23,Anuppur,Anuppur_44,44.0,Central
+Madhya Pradesh,23,Ashoknagar,Ashoknagar_42,42.0,Central
+Madhya Pradesh,23,Balaghat,Balaghat_40,40.0,Central
+Madhya Pradesh,23,Barwani,Barwani_24,24.0,Central
+Madhya Pradesh,23,Betul,Betul_30,30.0,Central
+Madhya Pradesh,23,Bhind,Bhind_3,3.0,Central
+Madhya Pradesh,23,Bhopal,Bhopal_27,27.0,Central
+Madhya Pradesh,23,Burhanpur,Burhanpur_50,50.0,Central
+Madhya Pradesh,23,Chhatarpur,Chhatarpur_8,8.0,Central
+Madhya Pradesh,23,Chhindwara,Chhindwara_38,38.0,Central
+Madhya Pradesh,23,Damoh,Damoh_11,11.0,Central
+Madhya Pradesh,23,Datia,Datia_5,5.0,Central
+Madhya Pradesh,23,Dewas,Dewas_20,20.0,Central
+Madhya Pradesh,23,Dhar,Dhar_21,21.0,Central
+Madhya Pradesh,23,Dindori,Dindori_36,36.0,Central
+Madhya Pradesh,23,Guna,Guna_41,41.0,Central
+Madhya Pradesh,23,Gwalior,Gwalior_4,4.0,Central
+Madhya Pradesh,23,Harda,Harda_31,31.0,Central
+Madhya Pradesh,23,Hoshangabad,Hoshangabad_32,32.0,Central
+Madhya Pradesh,23,Indore,Indore_22,22.0,Central
+Madhya Pradesh,23,Jabalpur,Jabalpur_34,34.0,Central
+Madhya Pradesh,23,Jhabua,Jhabua_47,47.0,Central
+Madhya Pradesh,23,Katni,Katni_33,33.0,Central
+Madhya Pradesh,23,Khandwa (East Nimar),East Nimar_49,49.0,Central
+Madhya Pradesh,23,Khargone (West Nimar),West Nimar_23,23.0,Central
+Madhya Pradesh,23,Mandla,Mandla_37,37.0,Central
+Madhya Pradesh,23,Mandsaur,Mandsaur_16,16.0,Central
+Madhya Pradesh,23,Morena,Morena_2,2.0,Central
+Madhya Pradesh,23,Narsimhapur,Narsimhapur_35,35.0,Central
+Madhya Pradesh,23,Neemuch,Neemuch_15,15.0,Central
+Madhya Pradesh,23,Panna,Panna_9,9.0,Central
+Madhya Pradesh,23,Raisen,Raisen_29,29.0,Central
+Madhya Pradesh,23,Rajgarh,Rajgarh_25,25.0,Central
+Madhya Pradesh,23,Ratlam,Ratlam_17,17.0,Central
+Madhya Pradesh,23,Rewa,Rewa_13,13.0,Central
+Madhya Pradesh,23,Sagar,Sagar_10,10.0,Central
+Madhya Pradesh,23,Satna,Satna_12,12.0,Central
+Madhya Pradesh,23,Sehore,Sehore_28,28.0,Central
+Madhya Pradesh,23,Seoni,Seoni_39,39.0,Central
+Madhya Pradesh,23,Shahdol,Shahdol_43,43.0,Central
+Madhya Pradesh,23,Shajapur,Shajapur_19,19.0,Central
+Madhya Pradesh,23,Sheopur,Sheopur_1,1.0,Central
+Madhya Pradesh,23,Shivpuri,Shivpuri_6,6.0,Central
+Madhya Pradesh,23,Sidhi,Sidhi_45,45.0,Central
+Madhya Pradesh,23,Singrauli,Singrauli_46,46.0,Central
+Madhya Pradesh,23,Tikamgarh,Tikamgarh_7,7.0,Central
+Madhya Pradesh,23,Ujjain,Ujjain_18,18.0,Central
+Madhya Pradesh,23,Umaria,Umaria_14,14.0,Central
+Madhya Pradesh,23,Vidisha,Vidisha_26,26.0,Central
+Maharashtra,27,Aurangabad,Aurangabad_19,19.0,West
+Maharashtra,27,Raigarh,Raigarh_24,24.0,West
+Maharashtra,27,Ahmednagar,Ahmadnagar_26,26.0,West
+Maharashtra,27,Akola,Akola_5,5.0,West
+Maharashtra,27,Amravati,Amravati_7,7.0,West
+Maharashtra,27,Bhandara,Bhandara_10,10.0,West
+Maharashtra,27,Bid,Bid_27,27.0,West
+Maharashtra,27,Buldana,Buldana_4,4.0,West
+Maharashtra,27,Chandrapur,Chandrapur_13,13.0,West
+Maharashtra,27,Dhule,Dhule_2,2.0,West
+Maharashtra,27,Gadchiroli,Garhchiroli_12,12.0,West
+Maharashtra,27,Gondiya,Gondiya_11,11.0,West
+Maharashtra,27,Hingoli,Hingoli_16,16.0,West
+Maharashtra,27,Jalgaon,Jalgaon_3,3.0,West
+Maharashtra,27,Jalna,Jalna_18,18.0,West
+Maharashtra,27,Kolhapur,Kolhapur_34,34.0,West
+Maharashtra,27,Latur,Latur_28,28.0,West
+Maharashtra,27,Mumbai,Mumbai_23,23.0,West
+Maharashtra,27,Mumbai Suburban,Mumbai Suburban_22,22.0,West
+Maharashtra,27,Nagpur,Nagpur_9,9.0,West
+Maharashtra,27,Nanded,Nanded_15,15.0,West
+Maharashtra,27,Nandurbar,Nandurbar_1,1.0,West
+Maharashtra,27,Nashik,Nashik_20,20.0,West
+Maharashtra,27,Osmanabad,Osmanabad_29,29.0,West
+Maharashtra,27,Parbhani,Parbhani_17,17.0,West
+Maharashtra,27,Pune,Pune_25,25.0,West
+Maharashtra,27,Ratnagiri,Ratnagiri_32,32.0,West
+Maharashtra,27,Sangli,Sangli_35,35.0,West
+Maharashtra,27,Satara,Satara_31,31.0,West
+Maharashtra,27,Sindhudurg,Sindhudurg_33,33.0,West
+Maharashtra,27,Solapur,Solapur_30,30.0,West
+Maharashtra,27,Thane,Thane_21,21.0,West
+Maharashtra,27,Wardha,Wardha_8,8.0,West
+Maharashtra,27,Washim,Washim_6,6.0,West
+Maharashtra,27,Yavatmal,Yavatmal_14,14.0,West
+Manipur,14,Bishnupur,Bishnupur_4,4.0,Northeast
+Manipur,14,Chandel,Chandel_9,9.0,Northeast
+Manipur,14,Churachandpur,Churachandpur_3,3.0,Northeast
+Manipur,14,Imphal East,Imphal East_7,7.0,Northeast
+Manipur,14,Imphal West,Imphal West_6,6.0,Northeast
+Manipur,14,Senapati,Senapati_1,1.0,Northeast
+Manipur,14,Tamenglong,Tamenglong_2,2.0,Northeast
+Manipur,14,Thoubal,Thoubal_5,5.0,Northeast
+Manipur,14,Ukhrul,Ukhrul_8,8.0,Northeast
+Meghalaya,17,East Garo Hills,East Garo Hills_2,2.0,Northeast
+Meghalaya,17,East Garo Hills,West Garo Hills_1,2.0,Northeast
+Meghalaya,17,East Jaintia Hills,Jaintia Hills_7,7.0,Northeast
+Meghalaya,17,East Khasi Hills,East Khasi Hills_6,6.0,Northeast
+Meghalaya,17,East Khasi Hills,South Garo Hills_3,6.0,Northeast
+Meghalaya,17,Ribhoi,Ri Bhoi_5,5.0,Northeast
+Meghalaya,17,South Garo Hills,East Khasi Hills_6,3.0,Northeast
+Meghalaya,17,South Garo Hills,South Garo Hills_3,3.0,Northeast
+Meghalaya,17,West Garo Hills,West Garo Hills_1,1.0,Northeast
+Meghalaya,17,West Jaintia Hills,Jaintia Hills_7,7.0,Northeast
+Meghalaya,17,West Khasi Hills,West Khasi Hills_4,4.0,Northeast
+Mizoram,15,Aizawl,Aizawl_3,3.0,Northeast
+Mizoram,15,Champhai,Champhai_4,4.0,Northeast
+Mizoram,15,Kolasib,Kolasib_2,2.0,Northeast
+Mizoram,15,Lawngtlai,Lawangtlai_7,7.0,Northeast
+Mizoram,15,Lunglei,Lunglei_6,6.0,Northeast
+Mizoram,15,Mamit,Mamit_1,1.0,Northeast
+Mizoram,15,Saiha,Saiha_8,8.0,Northeast
+Mizoram,15,Serchhip,Serchhip_5,5.0,Northeast
+NCT of Delhi,7,Central,Central_6,6.0,North
+NCT of Delhi,7,East,East_4,4.0,North
+NCT of Delhi,7,New Delhi,New Delhi_5,5.0,North
+NCT of Delhi,7,North,North_2,2.0,North
+NCT of Delhi,7,North East,North East_3,3.0,North
+NCT of Delhi,7,North West,North West_1,1.0,North
+NCT of Delhi,7,South,South_9,9.0,North
+NCT of Delhi,7,South West,South West_8,8.0,North
+NCT of Delhi,7,West,West_7,7.0,North
+Nagaland,13,Dimapur,Dimapur_5,5.0,Northeast
+Nagaland,13,Kiphire,Kiphire_9,9.0,Northeast
+Nagaland,13,Kohima,Kohima_10,10.0,Northeast
+Nagaland,13,Longleng,Longleng_8,8.0,Northeast
+Nagaland,13,Mokokchung,Mokokchung_2,2.0,Northeast
+Nagaland,13,Mon,Mon_1,1.0,Northeast
+Nagaland,13,Peren,Peren_11,11.0,Northeast
+Nagaland,13,Phek,Phek_6,6.0,Northeast
+Nagaland,13,Tuensang,Tuensang_7,7.0,Northeast
+Nagaland,13,Wokha,Wokha_4,4.0,Northeast
+Nagaland,13,Zunheboto,Zunheboto_3,3.0,Northeast
+Odisha,21,Anugul,Anugul_15,15.0,East
+Odisha,21,Balangir,Balangir_24,24.0,East
+Odisha,21,Baleshwar,Baleshwar_8,8.0,East
+Odisha,21,Bargarh,Bargarh_1,1.0,East
+Odisha,21,Baudh,Bauda_22,22.0,East
+Odisha,21,Bhadrak,Bhadrak_9,9.0,East
+Odisha,21,Cuttack,Cuttack_12,12.0,East
+Odisha,21,Debagarh,Debagarh_4,4.0,East
+Odisha,21,Dhenkanal,Dhenkanal_14,14.0,East
+Odisha,21,Gajapati,Gajapati_20,20.0,East
+Odisha,21,Ganjam,Ganjam_19,19.0,East
+Odisha,21,Jagatsinghapur,Jagatsinghapur_11,11.0,East
+Odisha,21,Jajapur,Jajapur_13,13.0,East
+Odisha,21,Jharsuguda,Jharsuguda_2,2.0,East
+Odisha,21,Kalahandi,Kalahandi_26,26.0,East
+Odisha,21,Kandhamal,Kandhamal_21,21.0,East
+Odisha,21,Kendrapara,Kendrapara_10,10.0,East
+Odisha,21,Kendujhar,Kendujhar_6,6.0,East
+Odisha,21,Khordha,Khordha_17,17.0,East
+Odisha,21,Koraput,Koraput_29,29.0,East
+Odisha,21,Malkangiri,Malkangiri_30,30.0,East
+Odisha,21,Mayurbhanj,Mayurbhanj_7,7.0,East
+Odisha,21,Nabarangapur,Nabarangapur_28,28.0,East
+Odisha,21,Nayagarh,Nayagarh_16,16.0,East
+Odisha,21,Nuapada,Nuapada_25,25.0,East
+Odisha,21,Puri,Puri_18,18.0,East
+Odisha,21,Rayagada,Rayagada_27,27.0,East
+Odisha,21,Sambalpur,Sambalpur_3,3.0,East
+Odisha,21,Subarnapur,Subarnapur_23,23.0,East
+Odisha,21,Sundargarh,Sundargarh_5,5.0,East
+Puducherry,34,Karaikal,Karaikal_4,4.0,South
+Puducherry,34,Mahe,Mahe_3,3.0,South
+Puducherry,34,Puducherry,Puducherry_2,2.0,South
+Puducherry,34,Yanam,Yanam_1,1.0,South
+Punjab,3,Amritsar,Amritsar_15,15.0,North
+Punjab,3,Barnala,Barnala_20,20.0,North
+Punjab,3,Bathinda,Bathinda_12,12.0,North
+Punjab,3,Faridkot,Faridkot_11,11.0,North
+Punjab,3,Fatehgarh Sahib,Fatehgarh Sahib_6,6.0,North
+Punjab,3,Firozpur,Firozpur_9,9.0,North
+Punjab,3,Gurudaspur,Gurdaspur_1,1.0,North
+Punjab,3,Hoshiarpur,Hoshiarpur_4,4.0,North
+Punjab,3,Jalandhar,Jalandhar_3,3.0,North
+Punjab,3,Kapurthala,Kapurthala_2,2.0,North
+Punjab,3,Ludhiana,Ludhiana_7,7.0,North
+Punjab,3,Mansa,Mansa_13,13.0,North
+Punjab,3,Moga,Moga_8,8.0,North
+Punjab,3,Muktsar,Muktsar_10,10.0,North
+Punjab,3,Patiala,Patiala_14,14.0,North
+Punjab,3,Rupnagar,Rupnagar_17,17.0,North
+Punjab,3,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar_18,18.0,North
+Punjab,3,Sangrur,Sangrur_19,19.0,North
+Punjab,3,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar_5,5.0,North
+Punjab,3,Tarn Taran,Tarn Taran_16,16.0,North
+Rajasthan,8,Ajmer,Ajmer_21,21.0,North
+Rajasthan,8,Alwar,Alwar_6,6.0,North
+Rajasthan,8,Banswara,Banswara_27,27.0,North
+Rajasthan,8,Baran,Baran_30,30.0,North
+Rajasthan,8,Barmer,Barmer_17,17.0,North
+Rajasthan,8,Bharatpur,Bharatpur_7,7.0,North
+Rajasthan,8,Bhilwara,Bhilwara_24,24.0,North
+Rajasthan,8,Bikaner,Bikaner_3,3.0,North
+Rajasthan,8,Bundi,Bundi_23,23.0,North
+Rajasthan,8,Chittaurgarh,Chittaurgarh_28,28.0,North
+Rajasthan,8,Churu,Churu_4,4.0,North
+Rajasthan,8,Dausa,Dausa_11,11.0,North
+Rajasthan,8,Dhaulpur,Dhaulpur_8,8.0,North
+Rajasthan,8,Dungarpur,Dungarpur_26,26.0,North
+Rajasthan,8,Ganganagar,Ganganagar_1,1.0,North
+Rajasthan,8,Hanumangarh,Hanumangarh_2,2.0,North
+Rajasthan,8,Jaipur,Jaipur_12,12.0,North
+Rajasthan,8,Jaisalmer,Jaisalmer_16,16.0,North
+Rajasthan,8,Jalor,Jalor_18,18.0,North
+Rajasthan,8,Jhalawar,Jhalawar_31,31.0,North
+Rajasthan,8,Jhunjhunu,Jhunjhunu_5,5.0,North
+Rajasthan,8,Jodhpur,Jodhpur_15,15.0,North
+Rajasthan,8,Karauli,Karauli_9,9.0,North
+Rajasthan,8,Kota,Kota_29,29.0,North
+Rajasthan,8,Nagaur,Nagaur_14,14.0,North
+Rajasthan,8,Pali,Pali_20,20.0,North
+Rajasthan,8,Pratapgarh,Pratapgarh_33,33.0,North
+Rajasthan,8,Rajsamand,Rajsamand_25,25.0,North
+Rajasthan,8,Sawai Madhopur,Sawai Madhopur_10,10.0,North
+Rajasthan,8,Sikar,Sikar_13,13.0,North
+Rajasthan,8,Sirohi,Sirohi_19,19.0,North
+Rajasthan,8,Tonk,Tonk_22,22.0,North
+Rajasthan,8,Udaipur,Udaipur_32,32.0,North
+Sikkim,11,East District,East Sikkim_4,4.0,Northeast
+Sikkim,11,North District,North_1,1.0,Northeast
+Sikkim,11,South District,South_3,3.0,Northeast
+Sikkim,11,West District,West_2,2.0,Northeast
+Tamil Nadu,33,Ariyalur,Ariyalur_15,15.0,South
+Tamil Nadu,33,Chennai,Chennai_2,2.0,South
+Tamil Nadu,33,Coimbatore,Coimbatore_31,31.0,South
+Tamil Nadu,33,Cuddalore,Cuddalore_16,16.0,South
+Tamil Nadu,33,Dharmapuri,Dharmapuri_29,29.0,South
+Tamil Nadu,33,Dindigul,Dindigul_11,11.0,South
+Tamil Nadu,33,Erode,Erode_9,9.0,South
+Tamil Nadu,33,Kancheepuram,Kancheepuram_3,3.0,South
+Tamil Nadu,33,Kanniyakumari,Kanniyakumari_28,28.0,South
+Tamil Nadu,33,Karur,Karur_12,12.0,South
+Tamil Nadu,33,Krishnagiri,Krishnagiri_30,30.0,South
+Tamil Nadu,33,Madurai,Madurai_22,22.0,South
+Tamil Nadu,33,Nagapattinam,Nagappattinam_17,17.0,South
+Tamil Nadu,33,Namakkal,Namakkal_8,8.0,South
+Tamil Nadu,33,Perambalur,Perambalur_14,14.0,South
+Tamil Nadu,33,Pudukkottai,Pudukkottai_20,20.0,South
+Tamil Nadu,33,Ramanathapuram,Ramanathapuram_25,25.0,South
+Tamil Nadu,33,Salem,Salem_7,7.0,South
+Tamil Nadu,33,Sivaganga,Sivaganga_21,21.0,South
+Tamil Nadu,33,Thanjavur,Thanjavur_19,19.0,South
+Tamil Nadu,33,The Nilgiris,The Nilgiris_10,10.0,South
+Tamil Nadu,33,Theni,Theni_23,23.0,South
+Tamil Nadu,33,Thiruvallur,Thiruvallur_1,1.0,South
+Tamil Nadu,33,Thiruvarur,Thiruvarur_18,18.0,South
+Tamil Nadu,33,Thoothukkudi,Thoothukkudi_26,26.0,South
+Tamil Nadu,33,Tiruchirappalli,Tiruchirappalli_13,13.0,South
+Tamil Nadu,33,Tirunelveli,Tirunelveli_27,27.0,South
+Tamil Nadu,33,Tiruppur,Tiruppur_32,32.0,South
+Tamil Nadu,33,Tiruvannamalai,Tiruvannamalai_5,5.0,South
+Tamil Nadu,33,Vellore,Vellore_4,4.0,South
+Tamil Nadu,33,Viluppuram,Viluppuram_6,6.0,South
+Tamil Nadu,33,Virudhunagar,Virudunagar_24,23.0,South
+Telangana,36,Adilabad,Adilabad_1,1.0,South
+Telangana,36,Hyderabad,Hyderabad_5,5.0,South
+Telangana,36,Karimnagar,Karimnagar_3,3.0,South
+Telangana,36,Khammam,Khammam_10,10.0,South
+Telangana,36,Mahabubnagar,Mahbubnagar_7,7.0,South
+Telangana,36,Medak,Medak_4,4.0,South
+Telangana,36,Nalgonda,Nalgonda_8,8.0,South
+Telangana,36,Nizamabad,Nizamabad_2,2.0,South
+Telangana,36,Ranga Reddy,Rangareddy_6,6.0,South
+Telangana,36,Warangal Rural,Warangal_9,9.0,South
+Telangana,36,Warangal Urban,Warangal_9,9.0,South
+Tripura,16,Dhalai,Dhalai_3,3.0,Northeast
+Tripura,16,North Tripura,North Tripura_4,4.0,Northeast
+Tripura,16,South Tripura,South Tripura_2,2.0,Northeast
+Tripura,16,West Tripura,West Tripura_1,1.0,Northeast
+Uttar Pradesh,9,Hamirpur,Hamirpur_37,37.0,North
+Uttar Pradesh,9,Pratapgarh,Pratapgarh_42,42.0,North
+Uttar Pradesh,9,Agra,Agra_15,15.0,North
+Uttar Pradesh,9,Aligarh,Aligarh_12,12.0,North
+Uttar Pradesh,9,Ambedkar Nagar,Ambedkar Nagar_47,47.0,North
+Uttar Pradesh,9,Auraiya,Auraiya_31,31.0,North
+Uttar Pradesh,9,Azamgarh,Azamgarh_60,60.0,North
+Uttar Pradesh,9,Baghpat,Baghpat_8,8.0,North
+Uttar Pradesh,9,Bahraich,Bahraich_49,49.0,North
+Uttar Pradesh,9,Ballia,Ballia_62,62.0,North
+Uttar Pradesh,9,Balrampur,Balrampur_51,51.0,North
+Uttar Pradesh,9,Banda,Banda_39,39.0,North
+Uttar Pradesh,9,Bara Banki,Bara Banki_45,45.0,North
+Uttar Pradesh,9,Bareilly,Bareilly_19,19.0,North
+Uttar Pradesh,9,Basti,Basti_54,54.0,North
+Uttar Pradesh,9,Bijnor,Bijnor_3,3.0,North
+Uttar Pradesh,9,Budaun,Budaun_18,18.0,North
+Uttar Pradesh,9,Bulandshahr,Bulandshahr_11,11.0,North
+Uttar Pradesh,9,Chandauli,Chandauli_65,65.0,North
+Uttar Pradesh,9,Chitrakoot,Chitrakoot_40,40.0,North
+Uttar Pradesh,9,Deoria,Deoria_59,59.0,North
+Uttar Pradesh,9,Etah,Etah_70,70.0,North
+Uttar Pradesh,9,Etawah,Etawah_30,30.0,North
+Uttar Pradesh,9,Faizabad,Faizabad_46,46.0,North
+Uttar Pradesh,9,Farrukhabad,Farrukhabad_28,28.0,North
+Uttar Pradesh,9,Fatehpur,Fatehpur_41,41.0,North
+Uttar Pradesh,9,Firozabad,Firozabad_16,16.0,North
+Uttar Pradesh,9,Gautam Buddha Nagar,Gautam Buddha Nagar_10,10.0,North
+Uttar Pradesh,9,Ghaziabad,Ghaziabad_9,9.0,North
+Uttar Pradesh,9,Ghazipur,Ghazipur_64,64.0,North
+Uttar Pradesh,9,Gonda,Gonda_52,52.0,North
+Uttar Pradesh,9,Gorakhpur,Gorakhpur_57,57.0,North
+Uttar Pradesh,9,Hardoi,Hardoi_24,24.0,North
+Uttar Pradesh,9,Jalaun,Jalaun_34,34.0,North
+Uttar Pradesh,9,Jaunpur,Jaunpur_63,63.0,North
+Uttar Pradesh,9,Jhansi,Jhansi_35,35.0,North
+Uttar Pradesh,9,Jyotiba Phule Nagar,Jyotiba Phule Nagar_6,6.0,North
+Uttar Pradesh,9,Kannauj,Kannauj_29,29.0,North
+Uttar Pradesh,9,Kanpur Dehat,Kanpur Dehat_32,32.0,North
+Uttar Pradesh,9,Kanpur Nagar,Kanpur Nagar_33,33.0,North
+Uttar Pradesh,9,Kanshiram Nagar,Kansiram Nagar_71,71.0,North
+Uttar Pradesh,9,Kaushambi,Kaushambi_43,43.0,North
+Uttar Pradesh,9,Kheri,Kheri_22,22.0,North
+Uttar Pradesh,9,Kushinagar,Kushinagar_58,58.0,North
+Uttar Pradesh,9,Lalitpur,Lalitpur_36,36.0,North
+Uttar Pradesh,9,Lucknow,Lucknow_26,26.0,North
+Uttar Pradesh,9,Mahamaya Nagar,Mahamaya Nagar_13,13.0,North
+Uttar Pradesh,9,Mahoba,Mahoba_38,38.0,North
+Uttar Pradesh,9,Mahrajganj,Maharajganj_56,56.0,North
+Uttar Pradesh,9,Mainpuri,Mainpuri_17,17.0,North
+Uttar Pradesh,9,Mathura,Mathura_14,14.0,North
+Uttar Pradesh,9,Mau,Mau_61,61.0,North
+Uttar Pradesh,9,Meerut,Meerut_7,7.0,North
+Uttar Pradesh,9,Mirzapur,Mirzapur_68,68.0,North
+Uttar Pradesh,9,Moradabad,Moradabad_4,4.0,North
+Uttar Pradesh,9,Muzaffarnagar,Muzaffarnagar_2,2.0,North
+Uttar Pradesh,9,Pilibhit,Pilibhit_20,20.0,North
+Uttar Pradesh,9,Prayagraj,Allahabad_44,44.0,North
+Uttar Pradesh,9,Rae Bareli,Rae Bareli_27,27.0,North
+Uttar Pradesh,9,Rampur,Rampur_5,5.0,North
+Uttar Pradesh,9,Saharanpur,Saharanpur_1,1.0,North
+Uttar Pradesh,9,Sant Kabir Nagar,Sant Kabir Nagar_55,55.0,North
+Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),Sant Ravi Das Nagar(bhadohi)_67,67.0,North
+Uttar Pradesh,9,Shahjahanpur,Shahjahanpur_21,21.0,North
+Uttar Pradesh,9,Shrawasti,Shrawasti_50,50.0,North
+Uttar Pradesh,9,Siddharthnagar,Siddharth Nagar_53,53.0,North
+Uttar Pradesh,9,Sitapur,Sitapur_23,23.0,North
+Uttar Pradesh,9,Sonbhadra,Sonbhadra_69,69.0,North
+Uttar Pradesh,9,Sultanpur,Sultanpur_48,48.0,North
+Uttar Pradesh,9,Unnao,Unnao_25,25.0,North
+Uttar Pradesh,9,Varanasi,Varanasi_66,66.0,North
+Uttarakhand,5,Almora,Almora_9,9.0,North
+Uttarakhand,5,Bageshwar,Bageshwar_8,8.0,North
+Uttarakhand,5,Chamoli,Chamoli_2,2.0,North
+Uttarakhand,5,Champawat,Champawat_10,10.0,North
+Uttarakhand,5,Dehradun,Dehradun_5,5.0,North
+Uttarakhand,5,Haridwar,Hardwar_13,13.0,North
+Uttarakhand,5,Nainital,Nainital_11,11.0,North
+Uttarakhand,5,Pauri Garhwal,Garhwal_6,6.0,North
+Uttarakhand,5,Pithoragarh,Pithoragarh_7,7.0,North
+Uttarakhand,5,Rudraprayag,Rudraprayag_3,3.0,North
+Uttarakhand,5,Tehri Garhwal,Tehri Garhwal_4,4.0,North
+Uttarakhand,5,Udham Singh Nagar,Udham Singh Nagar_12,12.0,North
+Uttarakhand,5,Uttarkashi,Uttarkashi_1,1.0,North
+West Bengal,19,Bankura,Bankura_13,13.0,East
+West Bengal,19,Birbhum,Birbhum_8,8.0,East
+West Bengal,19,Dakshin Dinajpur,Dakshin Dinajpur_5,5.0,East
+West Bengal,19,Darjeeling,Darjiling_1,1.0,East
+West Bengal,19,Haora,Haora_15,15.0,East
+West Bengal,19,Hugli,Hugli_12,12.0,East
+West Bengal,19,Jalpaiguri,Jalpaiguri_2,2.0,East
+West Bengal,19,Jalpaiguri,Jalpaiguri_2,2,East
+West Bengal,19,Koch Bihar,Koch Bihar_3,3,East
+West Bengal,19,Kolkata,Kolkata_16,16,East
+West Bengal,19,Maldah,Maldah_6,6,East
+West Bengal,19,Murshidabad,Murshidabad_7,7,East
+West Bengal,19,Nadia,Nadia_10,10,East
+West Bengal,19,North Twenty Four Parganas,North 24 Parganas_11,11,East
+West Bengal,19,Paschim Barddhaman,Barddhaman_9,9,East
+West Bengal,19,Paschim Medinipur,Pashchim Medinipur_18,18,East
+West Bengal,19,Purba Barddhaman,Pashchim Medinipur_18,18,East
+West Bengal,19,Purba Medinipur,Purba Medinipur_19,19,East
+West Bengal,19,Puruliya,Puruliya_14,14,East
+West Bengal,19,South Twenty Four Parganas,South 24 Parganas_17,17,East
+West Bengal,19,Uttar Dinajpur,Uttar Dinajpur_4,4,East
+West Bengal,19,Uttar Dinajpur,Uttar Dinajpur_4,`,East

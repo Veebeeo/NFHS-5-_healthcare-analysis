@@ -1,0 +1,106 @@
+short_name,long_name,category,unit,higher_is_good
+anaemia_women_15_19,All women age 15-19 years who are anaemic (%),Anaemia among Children and Women,percentage,False
+anaemia_all_women,All women age 15-49 years who are anaemic (%),Anaemia among Children and Women,percentage,False
+anaemia_pregnant_women,Pregnant women age 15-49 years who are anaemic,Anaemia among Children and Women,percentage,False
+anaemia_nonpregnant_women,Nonpregnant women age 15-49 years who are anaemic,Anaemia among Children and Women,percentage,False
+anaemia_children,Children age 6-59 months who are anaemic,Anaemia among Children and Women,percentage,False
+men_blood_sugar_141_160_dup,MaleBlood sugar level  high (141-160 mg/dl) (%),Blood Sugar Level among men,percentage,True
+men_very_high_blood_sugar,Male Blood sugar level  very high (>160 mg/dl) (%),Blood Sugar Level among men,percentage,False
+men_high_blood_sugar,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),Blood Sugar Level among men,percentage,False
+men_blood_sugar_141_160,Male Blood sugar level  high (141-160 mg/dl) (%),Blood Sugar Level among men,percentage,False
+women_very_high_blood_sugar,Female Blood sugar level  very high (>160 mg/dl) (%),Blood Sugar Level among women,percentage,False
+women_high_blood_sugar,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),Blood Sugar Level among women,percentage,False
+women_blood_sugar_141_160,Female Blood sugar level  high (141-160 mg/dl) (%),Blood Sugar Level among women,percentage,False
+women_literacy,Women who are literate (%),Characteristics of Women,percentage,True
+women_10yr_schooling,Women with 10 or more years of schooling (%),Characteristics of Women,percentage,True
+child_overweight,Children under 5 years who are overweight (weight fo rheight)20 (%),Child Feeding Practices and Nutritional Status of Children,percentage,False
+non_bf_children_adequate_diet,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+exclusive_breastfeeding,Children under age 6 months exclusively breastfed (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+early_breastfeeding,Children under age 3 years breastfed within one hour of birth (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+child_wasting,Children under 5 years who are wasted (weight for height) (%),Child Feeding Practices and Nutritional Status of Children,percentage,False
+child_underweight,Children under 5 years who are underweight (weight for age) (%),Child Feeding Practices and Nutritional Status of Children,percentage,False
+child_stunting,Children under 5 years who are stunted (height for age) (%),Child Feeding Practices and Nutritional Status of Children,percentage,False
+children_adequate_diet,Total children age 6-23 months receiving an adequate diet (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+child_severe_wasting,Children under 5 years who are severely wasted (weight for height) (%),Child Feeding Practices and Nutritional Status of Children,percentage,False
+complementary_feeding,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+bf_children_adequate_diet,Breastfeeding children age 6-23 months receiving an adequate diet (%),Child Feeding Practices and Nutritional Status of Children,percentage,True
+vaccine_dpt3,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_hepatitis_b3,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vitamin_a_dose,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+full_vaccination_card_only,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_measles2,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccination_public_facility,Children age 12-23 months who received most of their vaccinations in a public health facility (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_measles1,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_bcg,Children age 12-23 months who have received BCG (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_rotavirus,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+vaccine_polio3,Children age 12-23 months who have received 3 doses of polio vaccine (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+full_vaccination,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),Child Vaccinations and Vitamin A Supplementation,percentage,True
+fp_any_method,Any method (%),Current Use of Family Planning Methods,percentage,True
+fp_pill,Pill (%),Current Use of Family Planning Methods,percentage,True
+fp_male_sterilization,Male sterilization (%),Current Use of Family Planning Methods,percentage,True
+fp_injectable,Injectables (%),Current Use of Family Planning Methods,percentage,True
+fp_female_sterilization,Female sterilization (%),Current Use of Family Planning Methods,percentage,True
+fp_modern_method,Any modern method (%),Current Use of Family Planning Methods,percentage,True
+fp_iud,IUD/PPIUD (%),Current Use of Family Planning Methods,percentage,True
+fp_condom,Condom (%),Current Use of Family Planning Methods,percentage,True
+institutional_births,Institutional births (%),Delivery Care,percentage,True
+csection_public,Births in a public health facility that were delivered by caesarean section (%),Delivery Care,percentage,True
+births_public_facility,Institutional births in public facility (%),Delivery Care,percentage,True
+skilled_birth_attendance,Births attended by skilled health personnel (%),Delivery Care,percentage,True
+home_births_skilled,Home births that were conducted by skilled health personnel (%),Delivery Care,percentage,True
+csection_private,Births in a private health facility that were delivered by caesarean section (%),Delivery Care,percentage,True
+csection_rate,Births delivered by caesarean section (%),Delivery Care,percentage,False
+men_severe_hypertension,Male Moderately or severely elevated blood pressure (%),Hypertension among men,percentage,False
+men_mild_hypertension,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),Hypertension among men,percentage,False
+men_hypertension,Male Elevated blood pressure or taking medicine to control blood pressure (%),Hypertension among men,percentage,False
+women_severe_hypertension,Female Moderately or severely elevated blood pressure (%),Hypertension among women,percentage,False
+women_hypertension,Female Elevated blood pressure or taking medicine to control blood pressure (%),Hypertension among women,percentage,False
+women_mild_hypertension,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),Hypertension among women,percentage,False
+menstrual_hygiene,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),Marriage and Fertility,percentage,True
+births_third_or_higher,Births in the 5 years preceding the survey that are third or higher order (%),Marriage and Fertility,percentage,False
+women_married_before_18,Women age 2024 years married before age 18 years (%),Marriage and Fertility,percentage,False
+teen_pregnancy,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),Marriage and Fertility,percentage,False
+anc_4plus_visits,Mothers who had at least 4 antenatal care visits (%),Maternal and Child Health,percentage,True
+anc_first_trimester,Mothers who had an antenatal checkup in the first trimester (%),Maternal and Child Health,INR,True
+ifa_180_days,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),Maternal and Child Health,percentage,True
+postnatal_care_mother,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),Maternal and Child Health,percentage,True
+tetanus_protection,Mothers whose last birth was protected against neonatal tetanus (%),Maternal and Child Health,percentage,True
+ifa_100_days,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),Maternal and Child Health,percentage,True
+child_home_birth_checkup,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),Maternal and Child Health,percentage,True
+mcp_card,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),Maternal and Child Health,percentage,True
+postnatal_care_child,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),Maternal and Child Health,percentage,True
+oop_delivery_cost_rs,Average out-of-pocket expenditure per delivery in a public health facility (Rs),Maternal and Child Health,INR,False
+women_underweight_bmi,Women whose Body Mass Index (BMI) is below normal (BMI <18),Nutritional Status of Women,percentage,False
+women_overweight_obese,Women who are overweight or obese,Nutritional Status of Women,percentage,True
+women_high_waist_hip_ratio,Women who have high risk waisttohip ratio,Nutritional Status of Women,ratio,False
+hh_electricity,Population living in households with electricity (%),Population and Household Profile,percentage,True
+sex_ratio_at_birth,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",Population and Household Profile,ratio,True
+hh_improved_water,Population living in households with an improved drinkingwater source (%),Population and Household Profile,percentage,True
+hh_improved_sanitation,Population living in households that use an improved sanitation facility (%),Population and Household Profile,percentage,True
+pop_below_15,Population below age 15 years (%),Population and Household Profile,percentage,True
+sex_ratio_of_the_total_population_females_per_1000_males,"Sex ratio of the total population (females per 1,000 males)",Population and Household Profile,ratio,True
+preschool_attendance,Children age 5 years who attended preprimary school during the school year 2019-20 (%),Population and Household Profile,percentage,True
+pop_above_6,Female population age 6 years and above who ever attended school (%),Population and Household Profile,percentage,True
+death_registration,Deaths in the last 3 years registered with the civil authority (%),Population and Household Profile,percentage,True
+birth_registration,Children under age 5 years whose birth was registered with the civil authority (%),Population and Household Profile,percentage,True
+hh_clean_fuel,Households using clean fuel for cooking (%),Population and Household Profile,percentage,True
+hh_iodized_salt,Households using iodized salt (%),Population and Household Profile,percentage,True
+hh_health_insurance,Households with any usual member covered under a health insurance/financing scheme (%),Population and Household Profile,percentage,True
+fp_told_side_effects,Current users ever told about side effects of current method (%),Quality of Family Planning Services,percentage,True
+fp_health_worker_contact,Health worker ever talked to female non-users about family planning (%),Quality of Family Planning Services,percentage,True
+ever_undergone_a_screening_test_for_cervical_cancer,Ever undergone a screening test for cervical cancer (%),Screening for Cancer among Women,percentage,True
+ever_undergone_an_oral_cavity_examination_for_oral_cancer,Ever undergone an oral cavity examination for oral cancer (%),Screening for Cancer among Women,percentage,True
+ever_undergone_a_breast_examination_for_breast_cancer,Ever undergone a breast examination for breast cancer (%),Screening for Cancer among Women,percentage,True
+women_alcohol,Women age 15 years and above who consume alcohol (%),Tobacco Use and Alcohol Consumption among Adults,percentage,True
+women_tobacco,Women age 15 years and above who use any kind of tobacco (%),Tobacco Use and Alcohol Consumption among Adults,percentage,False
+men_alcohol,Men age 15 years and above who consume alcohol (%),Tobacco Use and Alcohol Consumption among Adults,percentage,False
+men_tobacco,Men age 15 years and above who use any kind of tobacco (%),Tobacco Use and Alcohol Consumption among Adults,percentage,False
+child_ari_prevalence,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),Treatment of Childhood Diseases,percentage,True
+prevalence_of_diarrhoea_in_the_2_weeks_preceding_the_survey,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),Treatment of Childhood Diseases,percentage,True
+child_diarrhoea_ors,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),Treatment of Childhood Diseases,INR,True
+child_ari_treatment,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),Treatment of Childhood Diseases,percentage,True
+children_with_diarrhoea_in_the_2_weeks_preceding_the_survey_,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),Treatment of Childhood Diseases,percentage,True
+children_age_1223_months_who_received_most_of_their_vaccinat,Children age 12-23 months who received most of their vaccinations in a private health facility (%),Treatment of Childhood Diseases,percentage,True
+child_diarrhoea_zinc,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),Treatment of Childhood Diseases,percentage,True
+unmet_need_spacing,Unmet need for spacing (%),Unmet Need for Family Planning,percentage,False
+unmet_need_total,Total unmet need (%),Unmet Need for Family Planning,percentage,False
