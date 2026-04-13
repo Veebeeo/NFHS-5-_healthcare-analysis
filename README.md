@@ -7,7 +7,7 @@
 
 > An end-to-end Data Science and Business Intelligence project analyzing the National Family Health Survey (NFHS-5) data across 707 Indian districts to identify critical healthcare vulnerabilities and recommend data-driven policy interventions.
 
-<img src="" width="100%" alt="Dashboard Hero Image">
+<img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page1.png" width="100%" alt="Dashboard Hero Image">
 
 ## Project Overview
 Despite massive improvements in maternal healthcare access—such as reaching a 90%+ institutional delivery rate—India continues to battle severe pediatric nutrition and systemic anaemia crises. 
