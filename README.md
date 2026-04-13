@@ -57,26 +57,32 @@ The Power BI dashboard is divided into 6 interactive pages, guiding the user fro
 ### Page 1: Executive Summary
 * **Features:** A custom TopoJSON "Hero Map" of India detailing Composite Health Scores by district, alongside dynamic KPI cards and Top/Bottom 10 filtering.
 * **Functionality:** Acts as the main landing page, establishing the baseline geographical divide in healthcare outcomes.
+  <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page1.png" width="100%" alt="Page1">
 
 ### Page 2: Maternal & Child Health
 * **Insight (The Access Paradox):** A scatter plot proves that while national institutional delivery rates have reached 90%+, this medical access has not successfully curbed pediatric malnutrition. 
 * **Features:** Includes a Maternal Care Funnel Chart highlighting the severe drop-off in postnatal care retention.
+   <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page2.png" width="100%" alt="Page2">
 
 ### Page 3: The Anaemia Crisis
 * **Insight:** Anaemia is a systemic crisis, not an isolated one. In several states, it affects over 60% of children, 55% of pregnant women, and 50% of non-pregnant women simultaneously.
 * **Features:** A demographic cascade chart and a "Red Zone" matrix filtering the absolute worst-hit districts for immediate dietary intervention.
+   <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page3.png" width="100%" alt="Page3">
 
 ### Page 4: Social Determinants & Historical Trends
 * **Insight (The "Social Vaccine"):** A trendline scatter plot conclusively demonstrates that as the percentage of women with 10+ years of schooling increases, child stunting drops dramatically (correlation of -0.59).
 * **Features:** Clustered bar charts tracking district-level progress (or regression) between the NFHS-4 (2015-16) and NFHS-5 (2019-21) surveys.
+   <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page4.png" width="100%" alt="Page4">
 
 ### Page 5: Predictive Analytics (ML Insights)
 * **XGBoost Feature Importance:** The supervised ML model visualization identifies *Women's Education* and *Basic Sanitation* as stronger predictors of pediatric health than direct medical interventions.
 * **K-Means Clustering:** An unsupervised 100% stacked bar chart categorizes all 707 districts into 4 distinct health profiles, highlighting infrastructure gaps.
+   <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page5.png" width="100%" alt="Page5">
 
 ### Page 6: Strategic Interventions
 * **Features:** A custom UI "App Navigation" bar and a **Dynamic DAX-driven Smart Narrative**.
 * **Functionality:** The dashboard reads the user's active slicer selections and automatically generates a written, text-based paragraph recommending specific policy actions for that exact state or region.
+   <img src="https://github.com/Veebeeo/NFHS-5-_healthcare-analysis/blob/main/dashboards/screenshots/Page6.png" width="100%" alt="Page6">
 
 ---
 
